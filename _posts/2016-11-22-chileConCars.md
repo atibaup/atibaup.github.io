@@ -3,7 +3,7 @@ layout: post
 title: "ChileConCars: A Mixed Effects Model of Chilean used car prices"
 date: 2017-01-24
 ---
-(Note: I'm new to Jekyll and haven't yet figured out how to escape parentheses \[duh!\]. So instead of parentheses I've been forced to use square brackets throughout...)
+(Note:) I'm new to Jekyll and haven't yet figured out how to escape parentheses \[duh!\]. So instead of parentheses I've been forced to use square brackets throughout...
  
 As some of you may know, my wife and I recently spent a few months [traveling in South America](http://properaestacio.wordpress.com). We did the southernmost part of our trip - Chile and Argentina's Patagonia - driving a car, which we bought in Santiago, Chile. As a sidenote for those who may be interested, Chile happens to be the only South American country at the time of writing this post that [is somewhat friendly to foreigners buying cars and bringing them out of the country](http://practicingforretirement.com/index.php/buy-a-car-in-chile/).
 
